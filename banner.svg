@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="1000" height="240" role="img" aria-label="AMP Solutions CL - Desarrollo de software">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A0E14"/>
+      <stop offset="60%" stop-color="#141A24"/>
+      <stop offset="100%" stop-color="#1E2836"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.15"/>
+      <stop offset="45%" stop-color="#F59E0B" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#FBBF24" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FBBF24"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+    <clipPath id="cut">
+      <rect x="0" y="0" width="1000" height="240" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#cut)">
+    <rect width="1000" height="240" fill="url(#bg)"/>
+
+    <!-- grilla tenue -->
+    <g stroke="#F59E0B" stroke-width="1" opacity="0.06">
+      <path d="M0 60 H1000 M0 120 H1000 M0 180 H1000"/>
+      <path d="M100 0 V240 M200 0 V240 M300 0 V240 M400 0 V240 M500 0 V240 M600 0 V240 M700 0 V240 M800 0 V240 M900 0 V240"/>
+    </g>
+
+    <!-- onda de amplitud creciente -->
+    <path d="M 40 120 L 80 120 L 100 104 L 120 136 L 140 92 L 160 148 L 180 74 L 200 166 L 220 56 L 240 184 L 260 82 L 280 158 L 300 108 L 320 132 L 360 120 L 1000 120"
+          fill="none" stroke="url(#wave)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+
+    <!-- texto -->
+    <text x="400" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#FFFFFF" letter-spacing="2">AMP SOLUTIONS</text>
+    <text x="404" y="152" font-family="Consolas, Menlo, monospace" font-size="18" fill="#F59E0B" letter-spacing="5">DESARROLLO DE SOFTWARE &#183; CHILE</text>
+    <rect x="404" y="172" width="200" height="4" fill="url(#accent)" rx="2"/>
+  </g>
+</svg>
