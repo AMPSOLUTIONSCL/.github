@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="./banner.svg" alt="AMP Solutions CL" width="100%" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Chile-1E2836?style=for-the-badge&logo=googlemaps&logoColor=F59E0B" alt="Chile" />
-<img src="https://img.shields.io/badge/Desarrollo%20a%20medida-F59E0B?style=for-the-badge&logoColor=white" alt="Desarrollo a medida" />
-<img src="https://img.shields.io/badge/Soporte%20continuo-1E2836?style=for-the-badge&logo=checkmarx&logoColor=F59E0B" alt="Soporte" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
+  <img src="./banner-light.svg" alt="AMP Solutions" width="100%">
+</picture>
 
 </div>
 
@@ -14,7 +12,7 @@
 
 ## Quiénes somos
 
-**AMP Solutions CL** es una empresa chilena de desarrollo de software. Construimos aplicaciones móviles, plataformas web y APIs para empresas que necesitan soluciones a medida, no plantillas.
+**AMP Solutions** es una empresa chilena de desarrollo de software. Construimos aplicaciones móviles, plataformas web y APIs para empresas que necesitan soluciones a medida, no plantillas.
 
 Acompañamos el proyecto completo: levantamiento de requerimientos, desarrollo, despliegue y mantención.
 
@@ -36,20 +34,20 @@ Acompañamos el proyecto completo: levantamiento de requerimientos, desarrollo, 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+<img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-0D1117?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+<img src="https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <br>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 <br>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 
 </div>
 
@@ -94,13 +92,17 @@ Acompañamos el proyecto completo: levantamiento de requerimientos, desarrollo, 
 <br><br>
 
 <a href="mailto:contacto@ampsolutions.cl">
-  <img src="https://img.shields.io/badge/contacto@ampsolutions.cl-1E2836?style=for-the-badge&logo=maildotru&logoColor=F59E0B" alt="Email" />
+  <img src="https://img.shields.io/badge/contacto@ampsolutions.cl-0D1117?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/company/ampsolutionscl">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://ampsolutions.cl">
-  <img src="https://img.shields.io/badge/Sitio%20web-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web" />
+  <img src="https://img.shields.io/badge/ampsolutions.cl-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio web" />
 </a>
+
+<br><br>
+
+<sub>Santiago, Chile</sub>
 
 </div>
