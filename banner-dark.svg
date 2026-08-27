@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-label="AMP Solutions - Desarrollo de software">
+  <rect width="1000" height="260" fill="#0D1117"/>
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="500" y="118" font-size="76" font-weight="700" fill="#FFFFFF" letter-spacing="-1">AMP</text>
+    <text x="500" y="176" font-size="54" font-weight="300" fill="#FFFFFF" letter-spacing="0.5">Solutions</text>
+  </g>
+  <rect x="440" y="200" width="120" height="2" fill="#FFFFFF"/>
+  <text x="500" y="230" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#9AA4B2" letter-spacing="6" text-anchor="middle">DESARROLLO DE SOFTWARE</text>
+</svg>
